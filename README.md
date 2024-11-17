@@ -156,4 +156,3 @@ celery -A archimedapi beat --loglevel=info
 ```
 
 This setup ensures that overdue bills are automatically marked as overdue without manual intervention.
->>>>>>> 02053fd (Archimed backend CRUD API)

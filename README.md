@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# archimed-backend
-=======
 # Archimed Backend
 This is the backend for the Archimed application, built with Django. The backend provides API routes for managing bills, investors, and capital calls. The base currency for all transactions is USD, and Redis is used to handle exchange rates for converting non-USD amounts.
 

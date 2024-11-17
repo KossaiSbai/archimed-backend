@@ -1,0 +1,12 @@
+python-dotenv
+redis
+pymongo
+pydantic
+pytest-django
+django_db
+djangorestframework
+django-cors-headers
+django-celery-results
+django-celery-beat
+Django
+celery
